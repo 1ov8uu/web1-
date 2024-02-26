@@ -1,0 +1,103 @@
+header{
+    background-image:url(/1674783727_top-fon-com-p-fon-dlya-prezentatsii-pekarni-198.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 18px;
+}
+h2{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.main{
+    margin-top: 200px;
+    margin-left: 750px;
+}
+.list{
+    margin-left: 150px;
+}
+.adress{
+    margin-top: 70px;
+    margin-left: 35px;
+    font-size: 15px;
+}
+h3{
+  margin-left: 600px;  
+  margin-top: 30px;
+  color: gold;
+}
+  footer{ 
+    /* background-image: url(/imht.jpg); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+     background-color: black;
+     font-size: 16px;
+    
+ }
+.main-bread{
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+}
+.main-bread img{
+height: 210px;
+width: 210px;
+border: 50px;
+}
+.main-bread1{
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+}
+.main-bread1 img{
+    border: 10px solid wheat;
+    height: 210px;
+    width: 210px;
+    border-radius: 30px;
+}
+body{
+    background-color: black;
+}
+button{
+    background-color: goldenrod;
+}
+button1{
+    background-color: goldenrod;
+     margin-left: 200px; 
+}
+.main-bread img{
+    border: 10px solid wheat;
+    border-radius: 30px;
+}
+.link{
+    color:wheat;
+}
+.link:hover{
+    color: goldenrod;
+}
+button {
+    border: none;
+    background: goldenrod;
+    color: black;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease; 
+  }
+  
+  button:hover {
+    background: blue;
+    color: wheat;
+    box-shadow: inset 0 0 0 3px black;
+  }
+.main1{
+    margin-left: 600px;
+    margin-top: 15px;
+  }
